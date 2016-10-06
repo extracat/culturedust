@@ -1,11 +1,11 @@
 <HTML><HEAD><TITLE>Карта сайта | На развалинах культуры</TITLE>
 <META name="keywords" content="культура,исскуство,проблемы,литература,урбанистический,катаклизм,дизайн,упадок,фоторгафия,деградация,кино,хаос,вэб-дизайн,развал">
-<!--#include virtual="header.shtml"-->
+<?php include "header.shtml" ?>
 </HEAD>
 
-<!--#include virtual="top.shtml"-->
+<?php include "top.shtml" ?>
 
-<!--#include virtual="left.shtml"-->
+<?php include "left.shtml" ?>
     
 <h1>карта сайта</h1>    
 
@@ -49,4 +49,4 @@
     
 </pre>   
 
-<!--#include virtual="bottom.shtml"-->
+<?php include "bottom.shtml" ?>

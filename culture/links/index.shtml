@@ -1,11 +1,11 @@
 <HTML><HEAD><TITLE>Ссылки | На развалинах культуры</TITLE>
 <META name="keywords" content="индустриальное фото,заброшенные места,На развалинах культуры,исскуство,проблемы,литература,урбанистический,фоторгафия,кино">
-<!--#include virtual="../../header.shtml"-->
+<?php include "../../header.shtml" ?>
 </HEAD>
 
-<!--#include virtual="../../top.shtml"-->
+<?php include "../../top.shtml" ?>
 
-<!--#include virtual="left.shtml"-->
+<?php include "left.shtml" ?>
 
 
 
@@ -73,4 +73,4 @@
      
 
 
-<!--#include virtual="../../bottom.shtml"-->
+<?php include "../../bottom.shtml" ?>

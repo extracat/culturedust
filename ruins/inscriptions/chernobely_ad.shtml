@@ -1,11 +1,11 @@
 <HTML><HEAD><TITLE>Чёрно-белый ад | На развалинах культуры</TITLE>
 <META name="keywords" content="Чёрно-белый ад,На развалинах культуры,Басистов,культура,исскуство,литература,упадок,фоторгафия,кино,развал">
-<!--#include virtual="../../header.shtml"-->
+<?php include "../../header.shtml" ?>
 </HEAD>
 
-<!--#include virtual="../../top.shtml"-->
+<?php include "../../top.shtml" ?>
 
-<!--#include virtual="left.shtml"-->
+<?php include "left.shtml" ?>
 
 <h2>Чёрно-белый ад</H2>
 <br>
@@ -35,4 +35,4 @@
 <i>Июль – август, 2003.</i><br>
 </small>
 
-<!--#include virtual="../../bottom.shtml"-->
+<?php include "../../bottom.shtml" ?>

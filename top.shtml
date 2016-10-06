@@ -3,34 +3,34 @@
 BODY {BACKGROUND-IMAGE: url("/img/bgwall.jpg");}
 </STYLE>
 
-<!-- не удалять --->
+<!-- РЅРµ СѓРґР°Р»СЏС‚СЊ --->
 <script language="JavaScript">var d=document;</script>
-<!-- скрипт открытия окон --->
+<!-- СЃРєСЂРёРїС‚ РѕС‚РєСЂС‹С‚РёСЏ РѕРєРѕРЅ --->
 <script language="JavaScript">
 function openimage(url,w,h,title) {
    var win;
    win=window.open("","","width="+w+",height="+h+",top="+(screen.availHeight/2-200)+",left="+(screen.availWidth/2-250)+",directories=no,location=no,menubar=no,scrollbars=no,status=no,titlebar=no,toolbar=no,resizable=no");
-   win.document.write("<HTML><HEAD><TITLE>"+title+"</TITLE></HEAD><BODY MARGINHEIGHT=0 TOPMARGIN=0 LEFTMARGIN=0 MARGINWIDTH=0><a href='javascript:window.close()'><img border=0 alt='Закрыть' title='Закрыть' src='"+url+"'></a></BODY>");
+   win.document.write("<HTML><HEAD><TITLE>"+title+"</TITLE></HEAD><BODY MARGINHEIGHT=0 TOPMARGIN=0 LEFTMARGIN=0 MARGINWIDTH=0><a href='javascript:window.close()'><img border=0 alt='Р—Р°РєСЂС‹С‚СЊ' title='Р—Р°РєСЂС‹С‚СЊ' src='"+url+"'></a></BODY>");
    }
 </script>
 
 <BODY MARGINHEIGHT="0" TOPMARGIN="0" LEFTMARGIN="0" MARGINWIDTH="0">
 
-<!----------- Верхняя часть ------------->              
+<!----------- Р’РµСЂС…РЅСЏСЏ С‡Р°СЃС‚СЊ ------------->              
 <TABLE style="border-top: 2px #AAAAAA solid;border-left: 0x #AAAAAA solid;border-right: 0x #777777 solid;border-bottom: 2px #666666 solid;" width=100% height=100 cellspacing=0>
 <TR><TD width=0 style="background-color: #E0E0E0;border:0px">&nbsp;&nbsp;</TD>
  
 <TD width=655 style="border-top: 0px #CCCCCC solid;border-left: 2px #AAAAAA solid;border-right: 2px #AAAAAA solid;border-bottom: 0px #666666 solid;">
 	<div style="padding-top:5;position:absolute;z-index:-1">
-	<h1><pre>&nbsp;&nbsp;&nbsp;На&nbsp;развалинах культуры</pre></h1></div>
-	<a id="topbarlink" href="/" title="На главную"><img src="/img/top.jpg" width=655 height=100></a></TD>
+	<h1><pre>&nbsp;&nbsp;&nbsp;РќР°&nbsp;СЂР°Р·РІР°Р»РёРЅР°С… РєСѓР»СЊС‚СѓСЂС‹</pre></h1></div>
+	<a id="topbarlink" href="/" title="РќР° РіР»Р°РІРЅСѓСЋ"><img src="/img/top.jpg" width=655 height=100></a></TD>
 
 <TD width=100% style="background-color:#E0E0E0;border:0px;vertical-align:middle" align=right>
 	<div style="padding:5px">
-	<a href="/mail.shtml" title="связаться с нами"><img src="/img/mail.gif" width=20 height=22></a>&nbsp;<br><br>
-	<a href="/map.shtml" title="карта сайта"><img src="/img/map.gif" width=25 height=32></a></div></TD></TR>
+	<a href="/mail.shtml" title="СЃРІСЏР·Р°С‚СЊСЃСЏ СЃ РЅР°РјРё"><img src="/img/mail.gif" width=20 height=22></a>&nbsp;<br><br>
+	<a href="/map.shtml" title="РєР°СЂС‚Р° СЃР°Р№С‚Р°"><img src="/img/map.gif" width=25 height=32></a></div></TD></TR>
 </TABLE>
-<!------------- конец верхней части -------------------->
+<!------------- РєРѕРЅРµС† РІРµСЂС…РЅРµР№ С‡Р°СЃС‚Рё -------------------->
 
 <TABLE width=100% cellspacing=8>
 <TR>

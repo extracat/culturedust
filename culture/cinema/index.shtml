@@ -1,11 +1,11 @@
 <HTML><HEAD><TITLE>Кинематограф | На развалинах культуры</TITLE>
 <META name="keywords" content="культура,исскуство,кино,фильмы,кинематограф,малобюджетные,рецензии,Страна Глухих,Тайна реки Сучжоу,Suzhou,Тарковский,Три истории,фара,Цареубийца,Куклы,винни пух,ежик в тумане,Убить билла">
-<!--#include virtual="../../header.shtml"-->
+<?php include "../../header.shtml" ?>
 </HEAD>
 
-<!--#include virtual="../../top.shtml"-->
+<?php include "../../top.shtml" ?>
 
-<!--#include virtual="left.shtml"-->
+<?php include "left.shtml" ?>
 
 
 <h1>Кинематограф</h1> 
@@ -64,4 +64,4 @@
 -->
 <br><br><br><br><br><br><br><br><br><br>
 
-<!--#include virtual="../../bottom.shtml"-->
+<?php include "../../bottom.shtml" ?>

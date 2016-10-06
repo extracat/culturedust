@@ -1,11 +1,11 @@
 <HTML><HEAD><TITLE>Дождь | На развалинах культуры</TITLE>
 <META name="keywords" content="Дождь,На развалинах культуры,Басистов,культура,исскуство,литература,упадок,фоторгафия,кино,развал">
-<!--#include virtual="../../header.shtml"-->
+<?php include "../../header.shtml" ?>
 </HEAD>
 
-<!--#include virtual="../../top.shtml"-->
+<?php include "../../top.shtml" ?>
 
-<!--#include virtual="left.shtml"-->
+<?php include "left.shtml" ?>
 
 
 <H2>Дождь</H2>
@@ -27,4 +27,4 @@
 <i>10 июля, 2003.</i><br>
 </small>
 
-<!--#include virtual="../../bottom.shtml"-->
+<?php include "../../bottom.shtml" ?>

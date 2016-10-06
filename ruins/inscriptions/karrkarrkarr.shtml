@@ -1,11 +1,11 @@
 <HTML><HEAD><TITLE>Карр, карр, карр | На развалинах культуры</TITLE>
 <META name="keywords" content="Кар,На развалинах культуры,Басистов,культура,исскуство,литература,упадок,фоторгафия,кино,развал">
-<!--#include virtual="../../header.shtml"-->
+<?php include "../../header.shtml" ?>
 </HEAD>
 
-<!--#include virtual="../../top.shtml"-->
+<?php include "../../top.shtml" ?>
 
-<!--#include virtual="left.shtml"-->
+<?php include "left.shtml" ?>
 
 
 <H2>Карр, карр, карр.</H2>
@@ -30,4 +30,4 @@
 <i>5 октября, 2003.</i><br>
 </small>
 
-<!--#include virtual="../../bottom.shtml"-->
+<?php include "../../bottom.shtml" ?>

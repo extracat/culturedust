@@ -1,11 +1,11 @@
 <HTML><HEAD><TITLE>Странная подруга | На развалинах культуры</TITLE>
 <META name="keywords" content="Странная подруга,На развалинах культуры,Басистов,культура,исскуство,литература,упадок,фоторгафия,кино,развал">
-<!--#include virtual="../../header.shtml"-->
+<?php include "../../header.shtml" ?>
 </HEAD>
 
-<!--#include virtual="../../top.shtml"-->
+<?php include "../../top.shtml" ?>
 
-<!--#include virtual="left.shtml"-->
+<?php include "left.shtml" ?>
 
 <H2>Странная подруга</H2>
 <br>
@@ -44,4 +44,4 @@
 <i>1 июля, 2003.</i><br>
 </small>
 
-<!--#include virtual="../../bottom.shtml"-->
+<?php include "../../bottom.shtml" ?>

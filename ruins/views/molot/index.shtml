@@ -1,11 +1,11 @@
 <HTML><HEAD><TITLE>Серп и Молот | На развалинах культуры</TITLE>
 <META name="keywords" content="культура,исскуство,проблемы,урбанистический,катаклизм,упадок,фоторгафия,деградация,хаос,развалины,серп и молот,завод">
-<!--#include virtual="../../../header.shtml"-->
+<?php include "../../../header.shtml" ?>
 </HEAD>
 
-<!--#include virtual="../../../top.shtml"-->
+<?php include "../../../top.shtml" ?>
 
-<!--#include virtual="../left.shtml"-->
+<?php include "../left.shtml" ?>
 
 
 
@@ -31,4 +31,4 @@
 <span class=preview><a href="molot10i.jpg" target=_blank><IMG src="molot10s.jpg"></a><br>ТТК</span>
 
          
-<!--#include virtual="../../../bottom.shtml"-->
+<?php include "../../../bottom.shtml" ?>

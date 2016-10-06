@@ -1,12 +1,12 @@
-<HTML><HEAD><TITLE>На развалинах культуры</TITLE>
-<META name="keywords" content="культура,исскуство,проблемы,литература,урбанистический,катаклизм,дизайн,упадок,фоторгафия,деградация,кино,хаос,вэб-дизайн,развал">
-<!--#include virtual="header.shtml"-->
+<HTML><HEAD><TITLE>РќР° СЂР°Р·РІР°Р»РёРЅР°С… РєСѓР»СЊС‚СѓСЂС‹</TITLE>
+<META name="keywords" content="РєСѓР»СЊС‚СѓСЂР°,РёСЃСЃРєСѓСЃС‚РІРѕ,РїСЂРѕР±Р»РµРјС‹,Р»РёС‚РµСЂР°С‚СѓСЂР°,СѓСЂР±Р°РЅРёСЃС‚РёС‡РµСЃРєРёР№,РєР°С‚Р°РєР»РёР·Рј,РґРёР·Р°Р№РЅ,СѓРїР°РґРѕРє,С„РѕС‚РѕСЂРіР°С„РёСЏ,РґРµРіСЂР°РґР°С†РёСЏ,РєРёРЅРѕ,С…Р°РѕСЃ,РІСЌР±-РґРёР·Р°Р№РЅ,СЂР°Р·РІР°Р»">
+<?php include "header.shtml" ?>
 </HEAD>
 
-<!--#include virtual="top.shtml"-->
+<?php include "top.shtml" ?>
 
-<!--#include virtual="left.shtml"-->
+<?php include "left.shtml" ?>
 
-Текст
+РўРµРєСЃС‚
 
-<!--#include virtual="bottom.shtml"-->
+<?php include "bottom.shtml" ?>
