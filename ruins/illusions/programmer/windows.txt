@@ -1,6 +1,6 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//RU">
 <HTML><HEAD>
-<TITLE>Программист</TITLE>
+<TITLE>РџСЂРѕРіСЂР°РјРјРёСЃС‚</TITLE>
 <META http-equiv=Content-Type content="text/html; charset=windows-1251">
 </HEAD><LINK rel="stylesheet" type="text/css" href="styles.css">
 
@@ -78,32 +78,32 @@ function stop()
                 
 
 <div id="t" style="position:absolute;z-index:1;top:25">
-Юзер:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Поставь-ка новые драйверы видеокарточки.<BR>
-Windows: - А диск есть?<BR>
-Юзер:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Есть.<BR>
-Windows: - А что сказать надо?<BR>
-Юзер:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Ok'.<BR>
-Windows: - Фиг тебе, а не Ok'. Не могу найти необходимые файлы!<BR>
-Юзер:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Так вот же они!<BR>
-Windows: - Где?!<BR>
-Юзер:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Да на диске!<BR>
-Windows: - На каком?<BR>
-Юзер:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - На B:\<BR>
-Windows: - Нет такого диска.<BR>
-Юзер:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - А почему под DOS'ом есть?!<BR>
-Windows: - Не мои проблемы.<BR>
-Юзер:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - А как же мне драйверы поставить? <BR>
-Windows: - А зачем тебе драйверы? У тебя и видеокарточки-то нет.<BR>
-Юзер:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Не может быть!<BR>
-Windows: - Точно тебе говорю.<BR>
-Юзер:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - А аудио есть?<BR>
-Windows: - И аудио нет.<BR>
-Юзер:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - А что есть?<BR>
-Windows: - Джойстик есть.<BR>
-Юзер:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Отродясь не было...<BR>
-Windows: - Мне виднее.<BR>
-Юзер:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Надо же, а я его покупать собрался.<BR>
-Windows: - Вот видишь! Что бы ты без меня делал?<BR>
+Р®Р·РµСЂ:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - РџРѕСЃС‚Р°РІСЊ-РєР° РЅРѕРІС‹Рµ РґСЂР°Р№РІРµСЂС‹ РІРёРґРµРѕРєР°СЂС‚РѕС‡РєРё.<BR>
+Windows: - Рђ РґРёСЃРє РµСЃС‚СЊ?<BR>
+Р®Р·РµСЂ:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Р•СЃС‚СЊ.<BR>
+Windows: - Рђ С‡С‚Рѕ СЃРєР°Р·Р°С‚СЊ РЅР°РґРѕ?<BR>
+Р®Р·РµСЂ:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Ok'.<BR>
+Windows: - Р¤РёРі С‚РµР±Рµ, Р° РЅРµ Ok'. РќРµ РјРѕРіСѓ РЅР°Р№С‚Рё РЅРµРѕР±С…РѕРґРёРјС‹Рµ С„Р°Р№Р»С‹!<BR>
+Р®Р·РµСЂ:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - РўР°Рє РІРѕС‚ Р¶Рµ РѕРЅРё!<BR>
+Windows: - Р“РґРµ?!<BR>
+Р®Р·РµСЂ:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Р”Р° РЅР° РґРёСЃРєРµ!<BR>
+Windows: - РќР° РєР°РєРѕРј?<BR>
+Р®Р·РµСЂ:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - РќР° B:\<BR>
+Windows: - РќРµС‚ С‚Р°РєРѕРіРѕ РґРёСЃРєР°.<BR>
+Р®Р·РµСЂ:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Рђ РїРѕС‡РµРјСѓ РїРѕРґ DOS'РѕРј РµСЃС‚СЊ?!<BR>
+Windows: - РќРµ РјРѕРё РїСЂРѕР±Р»РµРјС‹.<BR>
+Р®Р·РµСЂ:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Рђ РєР°Рє Р¶Рµ РјРЅРµ РґСЂР°Р№РІРµСЂС‹ РїРѕСЃС‚Р°РІРёС‚СЊ? <BR>
+Windows: - Рђ Р·Р°С‡РµРј С‚РµР±Рµ РґСЂР°Р№РІРµСЂС‹? РЈ С‚РµР±СЏ Рё РІРёРґРµРѕРєР°СЂС‚РѕС‡РєРё-С‚Рѕ РЅРµС‚.<BR>
+Р®Р·РµСЂ:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - РќРµ РјРѕР¶РµС‚ Р±С‹С‚СЊ!<BR>
+Windows: - РўРѕС‡РЅРѕ С‚РµР±Рµ РіРѕРІРѕСЂСЋ.<BR>
+Р®Р·РµСЂ:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Рђ Р°СѓРґРёРѕ РµСЃС‚СЊ?<BR>
+Windows: - Р Р°СѓРґРёРѕ РЅРµС‚.<BR>
+Р®Р·РµСЂ:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Рђ С‡С‚Рѕ РµСЃС‚СЊ?<BR>
+Windows: - Р”Р¶РѕР№СЃС‚РёРє РµСЃС‚СЊ.<BR>
+Р®Р·РµСЂ:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - РћС‚СЂРѕРґСЏСЃСЊ РЅРµ Р±С‹Р»Рѕ...<BR>
+Windows: - РњРЅРµ РІРёРґРЅРµРµ.<BR>
+Р®Р·РµСЂ:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - РќР°РґРѕ Р¶Рµ, Р° СЏ РµРіРѕ РїРѕРєСѓРїР°С‚СЊ СЃРѕР±СЂР°Р»СЃСЏ.<BR>
+Windows: - Р’РѕС‚ РІРёРґРёС€СЊ! Р§С‚Рѕ Р±С‹ С‚С‹ Р±РµР· РјРµРЅСЏ РґРµР»Р°Р»?<BR>
 </div>            
 
 

@@ -1,36 +1,36 @@
-<!------------ Левая часть -------------> 
+<!------------ Р›РµРІР°СЏ С‡Р°СЃС‚СЊ -------------> 
 
 <TD width=0%>
 
-    <!------------ Меню -------------> 
+    <!------------ РњРµРЅСЋ -------------> 
 <div style="border:1px gray solid;background-color:white;padding:5px;margin-top:10px;font-family:Courier New;font-size:130%">
    
    
-    <b><i>Развалины</i></b><br>  
+    <b><i>Р Р°Р·РІР°Р»РёРЅС‹</i></b><br>  
 
-    <a href="/ruins/views/" class=menu>Виды</a><br>
+    <a href="/ruins/views/" class=menu>Р’РёРґС‹</a><br>
 
-    <a href="/ruins/sounds/" class=menu>Звуки</a><br>
+    <a href="/ruins/sounds/" class=menu>Р—РІСѓРєРё</a><br>
 
-    <a href="/ruins/illusions/" class=menu>Глюки</a><br>
+    <a href="/ruins/illusions/" class=menu>Р“Р»СЋРєРё</a><br>
 
-    <a href="/ruins/inscriptions/" class=menu>Письмена</a><br>
+    <a href="/ruins/inscriptions/" class=menu>РџРёСЃСЊРјРµРЅР°</a><br>
 
     <br>
 
-    <b><i>Возрождение</i></b><br>
+    <b><i>Р’РѕР·СЂРѕР¶РґРµРЅРёРµ</i></b><br>
  
-    <a href="/culture/cinema/" class=menu>Кинематограф</a><br>
+    <a href="/culture/cinema/" class=menu>РљРёРЅРµРјР°С‚РѕРіСЂР°С„</a><br>
 
-    <a href="/culture/literature/" class=menu>Литература</a><br>
+    <a href="/culture/literature/" class=menu>Р›РёС‚РµСЂР°С‚СѓСЂР°</a><br>
 
-    <a href="/culture/music/" class=menu><u>Музыка</u></a><br>
+    <a href="/culture/music/" class=menu><u>РњСѓР·С‹РєР°</u></a><br>
 
-    <a href="/culture/links/" class=menu>Ссылки</a><br>
+    <a href="/culture/links/" class=menu>РЎСЃС‹Р»РєРё</a><br>
     
     <div>
-    <!------------ Конец меню ---------------->    
+    <!------------ РљРѕРЅРµС† РјРµРЅСЋ ---------------->    
 </TD>
 
 <TD width=100%>                 
-<!----------------------- Основное окно ------------------------>
+<!----------------------- РћСЃРЅРѕРІРЅРѕРµ РѕРєРЅРѕ ------------------------>

@@ -1,5 +1,5 @@
-<HTML><HEAD><TITLE>Виды с развалин | На развалинах культуры</TITLE>
-<META name="keywords" content="культура,исскуство,проблемы,литература,урбанистический,катаклизм,дизайн,упадок,фоторгафия,деградация,кино,хаос,вэб-дизайн,развал">
+<HTML><HEAD><TITLE>Р’РёРґС‹ СЃ СЂР°Р·РІР°Р»РёРЅ | РќР° СЂР°Р·РІР°Р»РёРЅР°С… РєСѓР»СЊС‚СѓСЂС‹</TITLE>
+<META name="keywords" content="РєСѓР»СЊС‚СѓСЂР°,РёСЃСЃРєСѓСЃС‚РІРѕ,РїСЂРѕР±Р»РµРјС‹,Р»РёС‚РµСЂР°С‚СѓСЂР°,СѓСЂР±Р°РЅРёСЃС‚РёС‡РµСЃРєРёР№,РєР°С‚Р°РєР»РёР·Рј,РґРёР·Р°Р№РЅ,СѓРїР°РґРѕРє,С„РѕС‚РѕСЂРіР°С„РёСЏ,РґРµРіСЂР°РґР°С†РёСЏ,РєРёРЅРѕ,С…Р°РѕСЃ,РІСЌР±-РґРёР·Р°Р№РЅ,СЂР°Р·РІР°Р»">
 <?php include "../../header.shtml" ?>
 </HEAD>
 
@@ -9,99 +9,99 @@
 
 
 
-<h1>Виды с развалин</h1>
+<h1>Р’РёРґС‹ СЃ СЂР°Р·РІР°Р»РёРЅ</h1>
 
-<h2>Объекты</h2>
+<h2>РћР±СЉРµРєС‚С‹</h2>
 
 <table cellspacing=10>
 
 
 <tr>
 <td>
-<h3><a href="/ruins/views/domodedovo/">Домодедово</a></h3>
+<h3><a href="/ruins/views/domodedovo/">Р”РѕРјРѕРґРµРґРѕРІРѕ</a></h3>
 </td>
 <td></td>
 </tr>
 
 <tr>
 <td>
-<h3><a href="/ruins/views/pepelats/">Пепелац</a></h3>
+<h3><a href="/ruins/views/pepelats/">РџРµРїРµР»Р°С†</a></h3>
 </td>
 <td></td>
 </tr>
 
 <tr>
 <td>
-<h3><a href="/ruins/views/zone/">Зона</a></h3> 
-<a href="/ruins/views/zone/story/">(читайте также записки с места происшествия)</a>
+<h3><a href="/ruins/views/zone/">Р—РѕРЅР°</a></h3> 
+<a href="/ruins/views/zone/story/">(С‡РёС‚Р°Р№С‚Рµ С‚Р°РєР¶Рµ Р·Р°РїРёСЃРєРё СЃ РјРµСЃС‚Р° РїСЂРѕРёСЃС€РµСЃС‚РІРёСЏ)</a>
 </td>
 <td></td>
 </tr>
 
 <tr>
 <td>
-<h3><a href="/ruins/views/molot/">Серп и Молот</a></h3>
+<h3><a href="/ruins/views/molot/">РЎРµСЂРї Рё РњРѕР»РѕС‚</a></h3>
 </td>
 <td></td>
 </tr>
 
 </table>
 
-<h2>Индустриальное фото</h2>
+<h2>РРЅРґСѓСЃС‚СЂРёР°Р»СЊРЅРѕРµ С„РѕС‚Рѕ</h2>
 
-<span class=preview><a href="photo/file0004i.jpg" target=_blank><IMG src="photo/file0004s.jpg"></a><br>подстанция</span>
-<span class=preview><a href="photo/file0016i.jpg" target=_blank><IMG src="photo/file0016s.jpg"></a><br>лэп на закате</span>
-<span class=preview><a href="photo/file0014i.jpg" target=_blank><IMG src="photo/file0014s.jpg"></a><br>панорама капотни</span>
-<span class=preview><a href="photo/file0014ai.jpg" target=_blank><IMG src="photo/file0014as.jpg"></a><br>космопорт</span>
-<span class=preview><a href="photo/file0015i.jpg" target=_blank><IMG src="photo/file0015s.jpg"></a><br>тэц на мкаде</span>
-<span class=preview><a href="photo/file0018i.jpg" target=_blank><IMG src="photo/file0018s.jpg"></a><br>мкад ночью</span>
-<span class=preview><a href="photo/file0003i.jpg" target=_blank><IMG src="photo/file0003s.jpg"></a><br>красное на черном</span>
+<span class=preview><a href="photo/file0004i.jpg" target=_blank><IMG src="photo/file0004s.jpg"></a><br>РїРѕРґСЃС‚Р°РЅС†РёСЏ</span>
+<span class=preview><a href="photo/file0016i.jpg" target=_blank><IMG src="photo/file0016s.jpg"></a><br>Р»СЌРї РЅР° Р·Р°РєР°С‚Рµ</span>
+<span class=preview><a href="photo/file0014i.jpg" target=_blank><IMG src="photo/file0014s.jpg"></a><br>РїР°РЅРѕСЂР°РјР° РєР°РїРѕС‚РЅРё</span>
+<span class=preview><a href="photo/file0014ai.jpg" target=_blank><IMG src="photo/file0014as.jpg"></a><br>РєРѕСЃРјРѕРїРѕСЂС‚</span>
+<span class=preview><a href="photo/file0015i.jpg" target=_blank><IMG src="photo/file0015s.jpg"></a><br>С‚СЌС† РЅР° РјРєР°РґРµ</span>
+<span class=preview><a href="photo/file0018i.jpg" target=_blank><IMG src="photo/file0018s.jpg"></a><br>РјРєР°Рґ РЅРѕС‡СЊСЋ</span>
+<span class=preview><a href="photo/file0003i.jpg" target=_blank><IMG src="photo/file0003s.jpg"></a><br>РєСЂР°СЃРЅРѕРµ РЅР° С‡РµСЂРЅРѕРј</span>
 
-<span class=preview><a href="photo/city1i.jpg" target=_blank><IMG src="photo/city1s.jpg"></a><br>пробки</span>
-<span class=preview><a href="photo/PICT0398i.jpg" target=_blank><IMG src="photo/PICT0398s.jpg"></a><br>ночной пейзаж</span>
-<span class=preview><a href="photo/PICT0521i.jpg" target=_blank><IMG src="photo/PICT0521s.jpg"></a><br>утро</span>
-<span class=preview><a href="photo/PICT0680i.jpg" target=_blank><IMG src="photo/PICT0680s.jpg"></a><br>нло</span>
-<span class=preview><a href="photo/war1i.jpg" target=_blank><IMG src="photo/war1s.jpg"></a><br>похороны микки</span>
+<span class=preview><a href="photo/city1i.jpg" target=_blank><IMG src="photo/city1s.jpg"></a><br>РїСЂРѕР±РєРё</span>
+<span class=preview><a href="photo/PICT0398i.jpg" target=_blank><IMG src="photo/PICT0398s.jpg"></a><br>РЅРѕС‡РЅРѕР№ РїРµР№Р·Р°Р¶</span>
+<span class=preview><a href="photo/PICT0521i.jpg" target=_blank><IMG src="photo/PICT0521s.jpg"></a><br>СѓС‚СЂРѕ</span>
+<span class=preview><a href="photo/PICT0680i.jpg" target=_blank><IMG src="photo/PICT0680s.jpg"></a><br>РЅР»Рѕ</span>
+<span class=preview><a href="photo/war1i.jpg" target=_blank><IMG src="photo/war1s.jpg"></a><br>РїРѕС…РѕСЂРѕРЅС‹ РјРёРєРєРё</span>
 
-<span class=preview><a href="photo/lamp01i.jpg" target=_blank><IMG src="photo/lamp01s.jpg"></a><br>фонарь</span>
-<span class=preview><a href="photo/lamp02i.jpg" target=_blank><IMG src="photo/lamp02s.jpg"></a><br>mc на заре</span>
-<span class=preview><a href="photo/les01i.jpg" target=_blank><IMG src="photo/les01s.jpg"></a><br>жертвенник</span>
-<span class=preview><a href="photo/les02i.jpg" target=_blank><IMG src="photo/les02s.jpg"></a><br>на веревочке</span>
-<span class=preview><a href="photo/igi1i.jpg" target=_blank><IMG src="photo/igi1s.jpg"></a><br>мир газпрома</span>
+<span class=preview><a href="photo/lamp01i.jpg" target=_blank><IMG src="photo/lamp01s.jpg"></a><br>С„РѕРЅР°СЂСЊ</span>
+<span class=preview><a href="photo/lamp02i.jpg" target=_blank><IMG src="photo/lamp02s.jpg"></a><br>mc РЅР° Р·Р°СЂРµ</span>
+<span class=preview><a href="photo/les01i.jpg" target=_blank><IMG src="photo/les01s.jpg"></a><br>Р¶РµСЂС‚РІРµРЅРЅРёРє</span>
+<span class=preview><a href="photo/les02i.jpg" target=_blank><IMG src="photo/les02s.jpg"></a><br>РЅР° РІРµСЂРµРІРѕС‡РєРµ</span>
+<span class=preview><a href="photo/igi1i.jpg" target=_blank><IMG src="photo/igi1s.jpg"></a><br>РјРёСЂ РіР°Р·РїСЂРѕРјР°</span>
 
-<span class=preview><a href="photo/antenna2i.jpg" target=_blank><IMG src="photo/antenna2s.jpg"></a><br>антенна</span>
-<span class=preview><a href="photo/antenna5i.jpg" target=_blank><IMG src="photo/antenna5s.jpg"></a><br>антенна</span>
+<span class=preview><a href="photo/antenna2i.jpg" target=_blank><IMG src="photo/antenna2s.jpg"></a><br>Р°РЅС‚РµРЅРЅР°</span>
+<span class=preview><a href="photo/antenna5i.jpg" target=_blank><IMG src="photo/antenna5s.jpg"></a><br>Р°РЅС‚РµРЅРЅР°</span>
 
 
 
-<h2>Фотопрогулки "Другая Москва"</h2> 
+<h2>Р¤РѕС‚РѕРїСЂРѕРіСѓР»РєРё "Р”СЂСѓРіР°СЏ РњРѕСЃРєРІР°"</h2> 
     
 <table cellspacing=10>
 <tr>
 <td>
-   <h3>Прогулка&nbsp;N1:&nbsp;Аэродром</h3>
+   <h3>РџСЂРѕРіСѓР»РєР°&nbsp;N1:&nbsp;РђСЌСЂРѕРґСЂРѕРј</h3>
 </td>
 <td></td>
 <tr>
 <td>
-   <h3>Прогулка&nbsp;N2:&nbsp;Домодедово</h3>
+   <h3>РџСЂРѕРіСѓР»РєР°&nbsp;N2:&nbsp;Р”РѕРјРѕРґРµРґРѕРІРѕ</h3>
 </td>
 <td></td>
 <tr>
 <td>
-    <h3>Прогулка&nbsp;N3:&nbsp;Пепелац</h3>
+    <h3>РџСЂРѕРіСѓР»РєР°&nbsp;N3:&nbsp;РџРµРїРµР»Р°С†</h3>
 </td>
 <td></td>
 <tr>
 <td>
-    <h3><a href="/ruins/views/zone/story/">Прогулка&nbsp;N4:&nbsp;Зона</a></h3> 
+    <h3><a href="/ruins/views/zone/story/">РџСЂРѕРіСѓР»РєР°&nbsp;N4:&nbsp;Р—РѕРЅР°</a></h3> 
 
 </td>
 <td>
-Залажу под мост, и застываю от восхищения. Тихо. Города будто уже не существует. 
-Дождь звонкой капелью струится с краёв моста, эхом отражаясь от бетонных переборок. 
-Вода необыкновенно чистая, видны зелёные водоросли на дне, песок. Тут можно сидеть 
-целый час и просто слушать <a href="/ruins/views/zone/story/">дождь...</a>
+Р—Р°Р»Р°Р¶Сѓ РїРѕРґ РјРѕСЃС‚, Рё Р·Р°СЃС‚С‹РІР°СЋ РѕС‚ РІРѕСЃС…РёС‰РµРЅРёСЏ. РўРёС…Рѕ. Р“РѕСЂРѕРґР° Р±СѓРґС‚Рѕ СѓР¶Рµ РЅРµ СЃСѓС‰РµСЃС‚РІСѓРµС‚. 
+Р”РѕР¶РґСЊ Р·РІРѕРЅРєРѕР№ РєР°РїРµР»СЊСЋ СЃС‚СЂСѓРёС‚СЃСЏ СЃ РєСЂР°С‘РІ РјРѕСЃС‚Р°, СЌС…РѕРј РѕС‚СЂР°Р¶Р°СЏСЃСЊ РѕС‚ Р±РµС‚РѕРЅРЅС‹С… РїРµСЂРµР±РѕСЂРѕРє. 
+Р’РѕРґР° РЅРµРѕР±С‹РєРЅРѕРІРµРЅРЅРѕ С‡РёСЃС‚Р°СЏ, РІРёРґРЅС‹ Р·РµР»С‘РЅС‹Рµ РІРѕРґРѕСЂРѕСЃР»Рё РЅР° РґРЅРµ, РїРµСЃРѕРє. РўСѓС‚ РјРѕР¶РЅРѕ СЃРёРґРµС‚СЊ 
+С†РµР»С‹Р№ С‡Р°СЃ Рё РїСЂРѕСЃС‚Рѕ СЃР»СѓС€Р°С‚СЊ <a href="/ruins/views/zone/story/">РґРѕР¶РґСЊ...</a>
 </td>
 </td></tr>
 </table>
