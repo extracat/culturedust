@@ -1,6 +1,6 @@
 <HTML><HEAD><TITLE>На развалинах культуры</TITLE>
 <META name="keywords" content="культура,исскуство,развалины,проблемы,литература,индустриальный,упадок,обломки,ржавчина,пыль,пепел,culturedust,фоторгафия,музыка,кинематограф">
-<?php include("header.shtml") ?>
+<?php include "header.shtml" ?>
 </HEAD>
 
 <!--#include virtual="top.shtml"-->
