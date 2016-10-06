@@ -1,0 +1,16 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//RU">
+<HTML><HEAD>
+<TITLE>Программист</TITLE>
+<META http-equiv=Content-Type content="text/html; charset=windows-1251">
+</HEAD><LINK rel="stylesheet" type="text/css" href="styles.css">
+<STYLE type="text/css">
+BODY
+{
+    margin: 0px;
+}
+</STYLE>
+<BODY>
+<p align=center><a href="work.txt"><img src="monitor.jpg"></a></p>
+</BODY>
+</HTML>
+<noscript><div style="display:none">

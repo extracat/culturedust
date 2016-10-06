@@ -1,0 +1,12 @@
+<HTML><HEAD><TITLE>На развалинах культуры</TITLE>
+<META name="keywords" content="культура,исскуство,проблемы,литература,урбанистический,катаклизм,дизайн,упадок,фоторгафия,деградация,кино,хаос,вэб-дизайн,развал">
+<!--#include virtual="header.shtml"-->
+</HEAD>
+
+<!--#include virtual="top.shtml"-->
+
+<!--#include virtual="left.shtml"-->
+
+Текст
+
+<!--#include virtual="bottom.shtml"-->

@@ -1,0 +1,171 @@
+BODY {
+BACKGROUND-COLOR: white;
+FONT-FAMILY: Arial, Tahoma;
+font-size: 80%;
+font-weight: normal;
+font-style: normal;
+text-decoration: none;
+background-repeat: repeat-y;
+background-attachment: scroll;
+margin-top: 3px;
+margin-left: 0px;
+margin-right: 0px;
+margin-bottom: 5px;
+}
+
+TABLE {
+FONT-FAMILY: Arial, Tahoma;
+font-size: 100%;
+}
+
+TABLE TD {
+vertical-align: top;
+padding: 0px;
+}
+
+SMALL {    
+font-size: 85%;
+}    
+
+BIG {    
+font-size: 150%;
+}    
+
+BLOCKQUOTE, PRE {    
+font-family: Courier New;
+}    
+
+
+H1 {    
+FONT-FAMILY: Arial, Tahoma;
+COLOR: gray;
+font-size: 180%;
+font-weight: normal;
+font-style: normal;
+text-decoration: none;     
+clear:both;
+}    
+        
+H2 {    
+FONT-FAMILY: Arial, Tahoma;
+COLOR: gray;
+font-size: 150%;
+font-weight: normal;
+font-style: normal;
+text-decoration: none;
+margin-bottom: 7px;
+clear:both;
+}    
+        
+H3 {    
+FONT-FAMILY: Arial, Tahoma;
+COLOR: gray;
+font-size: 130%;
+font-weight:  normal;
+font-style: italic;
+text-decoration: none;
+margin-top: 10px;
+margin-bottom: 4px;
+clear:both;
+}    
+
+A:link {    
+text-decoration: none;
+color: gray;
+}    
+        
+A:visited {    
+text-decoration: none;
+color: gray;
+}    
+        
+A:active {    
+text-decoration: none;
+color: gray;
+}    
+        
+A:hover {    
+text-decoration: underline;
+color: gray;
+}
+    
+A:link.menu {    
+text-decoration:    none;
+color: black;
+}    
+        
+A:visited.menu {    
+text-decoration:    none;
+color: black;
+}    
+        
+A:active.menu {    
+text-decoration: none;
+color: black;
+}    
+        
+A:hover.menu {    
+text-decoration: none;
+color: gray;
+}
+
+
+IMG {
+margin-top: 0px;
+margin-left: 0px;
+margin-right: 0px;
+margin-bottom: 0px;
+border: none;
+}
+    
+span.preview
+{
+display:block;
+float:left;
+margin:5px;
+padding:1px;
+text-align:center;
+width:124px;
+border-style:solid;
+border-width:1px;
+border-color:gray;
+font-size:85%;
+
+}   
+
+span.image
+{
+display:block;
+float:left;
+margin:5px;
+padding:1px;
+text-align:center; 
+width:100%;
+border-style:solid;
+border-width:1px;
+border-color:gray;
+}
+
+UL LI {    
+    list-style-type:    square ;
+    }    
+
+UL LI LI {    
+    list-style-type:    disc;
+    }    
+
+UL LI LI LI {    
+    list-style-type:    circle;
+    }    
+    
+OL LI {    
+    list-style-type:    decimal;
+    }    
+
+OL OL LI {    
+    list-style-type:    lower-alpha;
+    }    
+
+OL OL OL LI {    
+    list-style-type:    lower-roman;
+    }  

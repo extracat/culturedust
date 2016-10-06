@@ -1,0 +1,52 @@
+<HTML><HEAD><TITLE>Карта сайта | На развалинах культуры</TITLE>
+<META name="keywords" content="культура,исскуство,проблемы,литература,урбанистический,катаклизм,дизайн,упадок,фоторгафия,деградация,кино,хаос,вэб-дизайн,развал">
+<!--#include virtual="header.shtml"-->
+</HEAD>
+
+<!--#include virtual="top.shtml"-->
+
+<!--#include virtual="left.shtml"-->
+    
+<h1>карта сайта</h1>    
+
+<pre>
+
+  <b>Развалины</b>
+
+    <a href="/ruins/views/">Виды с развалин</a>
+       Экспедиции
+          <a href="/ruins/views/domodedovo/">Домодедово</a>  
+          <a href="/ruins/views/pepelats/">Пепелац</a>  
+          <a href="/ruins/views/zone/">Зона</a>
+       Индустриальное фото
+       Фотопрогулки "Другая Москва"
+          Прогулка N1: Аэродром  
+          Прогулка N2: Домодедово  
+          Прогулка N3: Пепелац  
+          Прогулка N4: <a href="/ruins/views/zone/story/">Зона</a> 
+
+    <a href="/ruins/sounds/">Звуки развалин</a>
+
+    <a href="/ruins/illusions/">Глюки на развалинах</a>
+
+    <a href="/ruins/inscriptions/">Письмена на стенах</a>
+       проза
+       поэзия
+
+
+  <b>Возрождение</b>
+
+    <a href="/culture/cinema/">Кинематограф</a>    
+
+    <a href="/culture/literature/">Литература</a>    
+ 
+    <a href="/culture/music/">Музыка</a>    
+        
+    <a href="/culture/links/">Линки</a>    
+       Фотосайты, анимация
+       Индастриал, заброшенные места
+
+    
+</pre>   
+
+<!--#include virtual="bottom.shtml"-->

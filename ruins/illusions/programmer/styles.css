@@ -1,0 +1,199 @@
+/* Default CSS Stylesheet for a new Web Application project */
+
+BODY
+{
+    BACKGROUND-COLOR:   white;
+    FONT-FAMILY:        Arial,Tahoma;
+    font-size:          90%;
+    font-weight:        normal;
+    font-style:         normal;
+    text-decoration:    none;   
+    line-height:        150%;
+    text-align:         justify;
+    margin: 20px;
+
+    background-repeat:    no-repeat;
+    background-attachment:    scroll;
+}
+
+TABLE
+{
+    FONT-FAMILY:    Arial, Tahoma;
+    font-size:    100%;
+}
+
+TABLE.bordertab
+{
+    FONT-FAMILY:    Arial, Tahoma;
+    font-size:    100%;
+    border-top:    0px #CCCCCC solid;
+    border-left:    0px #AAAAAA solid;
+    border-right:    0px #777777 solid;
+    border-bottom:    0px #666666 solid;
+}
+
+TABLE.bordertab TD 
+{
+    vertical-align:    top;
+    border-top:    1px #CCCCCC solid;
+    border-left:    1px #AAAAAA solid;
+    border-right:    1px #777777 solid;
+    border-bottom:    1px #666666 solid;
+    padding-top: 0px;
+    padding-left: 0px;
+    padding-right: 0px;
+    padding-bottom: 0px;
+}
+
+TABLE TD 
+{
+    vertical-align:    top;
+    padding-top: 0px;
+    padding-left: 0px;
+    padding-right: 0px;
+    padding-bottom: 0px;
+}
+
+TABLE.bordertab TH 
+{
+    vertical-align:    top;
+    border-top:    1px #666666 solid;
+    border-left:    1px #777777 solid;
+    border-right:    1px #AAAAAA solid;
+    border-bottom:    1px #CCCCCC solid;
+    padding-top: 0px;
+    padding-left: 0px;
+    padding-right: 0px;
+    padding-bottom: 0px;
+
+}
+
+TABLE TH 
+{
+    vertical-align:    top;
+    padding-top: 0px;
+    padding-left: 0px;
+    padding-right: 0px;
+    padding-bottom: 0px;
+}
+
+
+
+
+H1, H2, H3, H4, H5, TH, THEAD, TFOOT, CAPTION
+{
+    COLOR: gray;    
+}
+
+H1    {    
+    FONT-FAMILY:        Arial, Tahoma;
+    font-size:        180%;
+    font-weight:         normal;
+    font-style:        normal;
+    text-decoration:    none;
+    }    
+        
+H2    {    
+    FONT-FAMILY:        Arial, Tahoma;
+    font-size:        150%;
+    font-weight:         normal;
+    font-style:        normal;
+    text-decoration:    none;
+
+    }    
+        
+H3    {    
+    FONT-FAMILY:        Arial, Tahoma;
+    font-size:        130%;
+    font-weight:         normal;
+    font-style:        italic;
+    text-decoration:    none;
+    }    
+        
+        
+DT    {    
+    FONT-FAMILY:        Arial, Tahoma;
+    font-size:        100%;
+    font-weight:         bold;
+    font-style:        normal;
+    text-decoration:    none;
+    }    
+        
+CAPTION, TFOOT, THEAD    {    
+    FONT-FAMILY:        Arial, Tahoma;
+    font-size:        100%;
+    font-weight:         bold;
+    font-style:        italic;
+    text-decoration:    none;
+    }    
+        
+TH    {    
+    FONT-FAMILY:        Arial, Tahoma;
+    font-size:        100%;
+    font-weight:         bold;
+    font-style:        italic;
+    text-decoration:    none;
+    }    
+
+
+A:link    {    
+    text-decoration:    none;
+    color: gray;
+    }    
+        
+A:visited    {    
+    text-decoration:    none;
+    color: gray;
+    }    
+        
+A:active    {    
+    text-decoration:    none;
+    color: gray;
+    }    
+        
+A:hover    {    
+    text-decoration:    underline;
+    color: gray;
+    }
+    
+SMALL    {    
+    font-size:    80%;
+    }    
+
+BIG    {    
+    font-size:    150%;
+    }    
+
+BLOCKQUOTE, PRE    {    
+    font-family:    Courier New;
+    }    
+    
+
+UL LI    {    
+    list-style-type:    square ;
+    }    
+
+UL LI LI    {    
+    list-style-type:    disc;
+    }    
+
+UL LI LI LI    {    
+    list-style-type:    circle;
+    }    
+    
+OL LI    {    
+    list-style-type:    decimal;
+    }    
+
+OL OL LI    {    
+    list-style-type:    lower-alpha;
+    }    
+
+OL OL OL LI    {    
+    list-style-type:    lower-roman;
+    }    
+
+IMG     {
+    margin: 0px;
+    border: none;
+    }

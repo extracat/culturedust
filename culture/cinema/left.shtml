@@ -1,0 +1,40 @@
+<!------------ Левая часть -------------> 
+
+<TD width=0%>
+
+    <!------------ Меню -------------> 
+<div style="border:1px gray solid;background-color:white;padding:5px;margin-top:10px;font-family:Courier New;font-size:130%">
+   
+   
+    <b><i>Развалины</i></b><br>  
+
+    <a href="/ruins/views/" class=menu>Виды</a><br>
+
+    <a href="/ruins/sounds/" class=menu>Звуки</a><br>
+
+    <a href="/ruins/illusions/" class=menu>Глюки</a><br>
+
+    <a href="/ruins/inscriptions/" class=menu>Письмена</a><br>
+
+    <br>
+
+    <b><i>Возрождение</i></b><br>
+ 
+    <a href="/culture/cinema/" class=menu><u>Кинематограф</u></a><br>
+       <div style="margin-left:15px;font-size:65%;font-family:Arial">
+       <a href="/culture/cinema/suzhou_he/" class=menu>Тайна&nbsp;реки&nbsp;Сучжоу</a><br>
+       <a href="/culture/cinema/strana_gluhih/" class=menu>Страна&nbsp;глухих</a><br>
+       </div>
+
+    <a href="/culture/literature/" class=menu>Литература</a><br>
+
+    <a href="/culture/music/" class=menu>Музыка</a><br>
+
+    <a href="/culture/links/" class=menu>Ссылки</a><br>
+    
+    <div>
+    <!------------ Конец меню ---------------->    
+</TD>
+
+<TD width=100%>                 
+<!----------------------- Основное окно ------------------------>

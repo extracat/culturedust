@@ -1,0 +1,118 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//RU">
+<HTML><HEAD>
+<TITLE>Программист</TITLE>
+<META http-equiv=Content-Type content="text/html; charset=windows-1251">
+</HEAD><LINK rel="stylesheet" type="text/css" href="styles.css">
+
+<STYLE type="text/css">
+A:link {    
+    text-decoration:    none;
+    color: black;
+    }    
+A:visited {    
+    text-decoration:    none;
+    color: black;
+    }    
+        
+A:active {    
+    text-decoration:    none;
+    color: black;
+    }    
+        
+A:hover {    
+    text-decoration:    none;
+    color: black;
+    }
+
+BODY
+{
+    FONT-SIZE: 14px;
+    BACKGROUND-COLOR:    #F7E9D5;
+    BACKGROUND-IMAGE:    url("windows.jpg");
+
+}
+</STYLE>
+
+<SCRIPT language=JavaScript>
+var timeout;
+var pos=25;
+function moveup()
+{          
+      if (pos < 25) pos+=2;
+      document.all.t.style.top=pos;   
+      clearTimeout(timeout);
+      timeout=setTimeout("moveup()",5);
+}
+
+function movedown()
+{           
+      if (pos > -300) pos-=2;
+      document.all.t.style.top=pos;       
+      clearTimeout(timeout);
+      timeout=setTimeout("movedown()",5);
+}
+
+function stop()
+{           
+      clearTimeout(timeout);
+}
+
+
+
+</SCRIPT>
+
+<BODY>
+         
+<div align=center style="position:absolute;left:0;top:0;width:500;background-color: #EDE7D2 ;z-index:2" >
+
+<a href="#" onMousedown="moveup()" onMouseup="stop()" onMouseout="stop()"><img src="up_arrow.jpg"></a>
+
+</div>    
+                                                     
+   
+<div align=center style="position:absolute;left:0;top:300;width:500;height=100%;background-color:#F7E9D5;z-index:2">
+
+<a href="#" onMousedown="movedown()" onMouseup="stop()" onMouseout="stop()"><img src="down_arrow.jpg"></a>
+
+</div>               
+                
+
+<div id="t" style="position:absolute;z-index:1;top:25">
+Юзер:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Поставь-ка новые драйверы видеокарточки.<BR>
+Windows: - А диск есть?<BR>
+Юзер:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Есть.<BR>
+Windows: - А что сказать надо?<BR>
+Юзер:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Ok'.<BR>
+Windows: - Фиг тебе, а не Ok'. Не могу найти необходимые файлы!<BR>
+Юзер:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Так вот же они!<BR>
+Windows: - Где?!<BR>
+Юзер:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Да на диске!<BR>
+Windows: - На каком?<BR>
+Юзер:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - На B:\<BR>
+Windows: - Нет такого диска.<BR>
+Юзер:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - А почему под DOS'ом есть?!<BR>
+Windows: - Не мои проблемы.<BR>
+Юзер:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - А как же мне драйверы поставить? <BR>
+Windows: - А зачем тебе драйверы? У тебя и видеокарточки-то нет.<BR>
+Юзер:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Не может быть!<BR>
+Windows: - Точно тебе говорю.<BR>
+Юзер:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - А аудио есть?<BR>
+Windows: - И аудио нет.<BR>
+Юзер:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - А что есть?<BR>
+Windows: - Джойстик есть.<BR>
+Юзер:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Отродясь не было...<BR>
+Windows: - Мне виднее.<BR>
+Юзер:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Надо же, а я его покупать собрался.<BR>
+Windows: - Вот видишь! Что бы ты без меня делал?<BR>
+</div>            
+
+
+
+
+                                                          
+                          
+       
+</BODY>  
+</HTML>
+
+<div style="display:none"><div>
