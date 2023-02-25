@@ -1,4 +1,12 @@
 {
 	"alias": ["culturedust", "culturedust.ru", "www.culturedust.ru"],
-	"version": 2
+	"version": 2,
+	"builds": 
+  [
+    {
+      "src": "package.json",
+      "use": "@now/static-build",
+      "config": { "distDir": "build" }
+    }
+  ]
 }
