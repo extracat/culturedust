@@ -4,11 +4,11 @@
   "description": "Simple hello world Node.js app",
   "license": "Apache-2.0",
   "scripts": {
-    "start": "node app.js",
-    "dev": "node app.js",
-    "build": "node app.js",
-    "now-dev": "node app.js",
-    "now-build": "node app.js"
+    "start": "node app2.js",
+    "dev": "node app2.js",
+    "build": "node app2.js",
+    "now-dev": "node app2.js",
+    "now-build": "node app2.js"
   },
   "dependencies": {
     "cfenv": "^1.1.0"
