@@ -1,11 +1,13 @@
+<!DOCTYPE html>
+<html lang="ru">
 <HTML><HEAD><TITLE>На развалинах культуры</TITLE>
 <META name="keywords" content="культура,исскуство,развалины,проблемы,литература,индустриальный,упадок,обломки,ржавчина,пыль,пепел,culturedust,фоторгафия,музыка,кинематограф">
-<?php include "header.shtml" ?>
+{%  include "header.shtml" %}
 </HEAD>
 
-<?php include "top.shtml" ?>
+{% include "top.shtml" %}
 
-<?php include "left.shtml" ?>
+{% include "left.shtml" %}
 
 <table><tr>
 <td width=60%>
@@ -92,4 +94,4 @@
 </td>
 </tr></table>
 
-<?php include "bottom.shtml" ?>
+{% include "bottom.shtml" %}

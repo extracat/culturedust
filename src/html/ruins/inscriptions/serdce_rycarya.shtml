@@ -1,11 +1,11 @@
 <HTML><HEAD><TITLE>Сердце рыцаря | На развалинах культуры</TITLE>
 <META name="keywords" content="Сердце рыцаря,На развалинах культуры,Басистов,культура,исскуство,литература,упадок,фоторгафия,кино,развал">
-<?php include "../../header.shtml" ?>
+{% include "../../header.shtml" %}
 </HEAD>
 
-<?php include "../../top.shtml" ?>
+{% include "../../top.shtml" %}
 
-<?php include "left.shtml" ?>
+{% include "left.shtml" %}
 
 
 <H1 ALIGN="CENTER">Сердце рыцаря</H1>
@@ -58,4 +58,4 @@
 <i>Декабрь, 2002.</i></P>
 
 
-<?php include "../../bottom.shtml" ?>
+{% include "../../bottom.shtml" %}

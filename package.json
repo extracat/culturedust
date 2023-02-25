@@ -4,12 +4,12 @@
   "description": "culturedust",
   "license": "Apache-2.0",
   "scripts": {
-    "start": "gulp",
+    "dev": "gulp",
     "build": "gulp build"
   },
   "devDependencies": {
-    "del": "^7.0.0",
-    "gulp": "^4.0.2",
+    "del": "3.0.0",
+    "gulp": "github:gulpjs/gulp#4.0",
     "gulp-beautify": "^3.0.0",
     "gulp-nunjucks-render": "^2.2.3"
   }

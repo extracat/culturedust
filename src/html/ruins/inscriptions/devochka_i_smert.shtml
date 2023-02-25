@@ -1,11 +1,11 @@
 <HTML><HEAD><TITLE>Девочка и смерть | На развалинах культуры</TITLE>
 <META name="keywords" content="Девочка и смерть,На развалинах культуры,Басистов,культура,исскуство,литература,упадок,фоторгафия,кино,развал">
-<?php include "../../header.shtml" ?>
+{% include "../../header.shtml" %}
 </HEAD>
 
-<?php include "../../top.shtml" ?>
+{% include "../../top.shtml" %}
 
-<?php include "left.shtml" ?>
+{% include "left.shtml" %}
 
 <h1 align="center">Девочка и смерть</h1>
 
@@ -92,5 +92,5 @@
 <i>Басистов Антон.</i><br>
 <i>Ноябрь, 2002.</i>
 </p>
-<?php include "../../bottom.shtml" ?>
+{% include "../../bottom.shtml" %}
 

@@ -1,11 +1,11 @@
 <HTML><HEAD><TITLE>Звуки развалин | На развалинах культуры</TITLE>
 <META name="keywords" content="культура,исскуство,проблемы,литература,урбанистический,катаклизм,дизайн,упадок,фоторгафия,деградация,кино,хаос,вэб-дизайн,развал">
-<?php include "../../header.shtml" ?>
+{% include "../../header.shtml" %}
 </HEAD>
 
-<?php include "../../top.shtml" ?>
+{% include "../../top.shtml" %}
 
-<?php include "left.shtml" ?>
+{% include "left.shtml" %}
 
 
 <h1>Звуки развалин</h1>
@@ -13,4 +13,4 @@
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
-<?php include "../../bottom.shtml" ?>
+{% include "../../bottom.shtml" %}

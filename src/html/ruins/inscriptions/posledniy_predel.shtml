@@ -1,11 +1,11 @@
 <HTML><HEAD><TITLE>Последний предел | На развалинах культуры</TITLE>
 <META name="keywords" content="Последний предел,На развалинах культуры,Басистов,культура,исскуство,литература,упадок,фоторгафия,кино,развал">
-<?php include "../../header.shtml" ?>
+{% include "../../header.shtml" %}
 </HEAD>
 
-<?php include "../../top.shtml" ?>
+{% include "../../top.shtml" %}
 
-<?php include "left.shtml" ?>
+{% include "left.shtml" %}
 
 
 <h1 align=center>Последний предел</h1>
@@ -105,4 +105,4 @@
 <i>Конец декабря, 2003.</i><br></p>
 
 
-<?php include "../../bottom.shtml" ?>
+{% include "../../bottom.shtml" %}

@@ -1,11 +1,11 @@
 <HTML><HEAD><TITLE>Брошенный | На развалинах культуры</TITLE>
 <META name="keywords" content="Брошенный,На развалинах культуры,Басистов,культура,исскуство,литература,упадок,фоторгафия,кино,развал">
-<?php include "../../header.shtml" ?>
+{% include "../../header.shtml" %}
 </HEAD>
 
-<?php include "../../top.shtml" ?>
+{% include "../../top.shtml" %}
 
-<?php include "left.shtml" ?>
+{% include "left.shtml" %}
                   
 <h2 align=center>Брошенный</h2>
 
@@ -164,5 +164,5 @@
 <i>Басистов Антон.</i><br>
 <i>Апрель, 2003.</i></p>
 
-<?php include "../../bottom.shtml" ?>
+{% include "../../bottom.shtml" %}
 

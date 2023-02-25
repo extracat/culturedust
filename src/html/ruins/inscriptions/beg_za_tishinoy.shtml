@@ -1,11 +1,11 @@
 <HTML><HEAD><TITLE>Бег за тишиной | На развалинах культуры</TITLE>
 <META name="keywords" content="Бег за тишиной,На развалинах культуры,Басистов,культура,исскуство,литература,упадок,фоторгафия,кино,развал">
-<?php include "../../header.shtml" ?>
+{% include "../../header.shtml" %}
 </HEAD>
 
-<?php include "../../top.shtml" ?>
+{% include "../../top.shtml" %}
 
-<?php include "left.shtml" ?>
+{% include "left.shtml" %}
 
 
 <H1 ALIGN="CENTER">Бег за тишиной</H1>
@@ -91,4 +91,4 @@
 <i>Январь, 2003.</i>
 </P>
 
-<?php include "../../bottom.shtml" ?>
+{% include "../../bottom.shtml" %}

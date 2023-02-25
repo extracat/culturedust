@@ -1,11 +1,11 @@
 <HTML><HEAD><TITLE>Зимние окна | На развалинах культуры</TITLE>
 <META name="keywords" content="Зимние окна,На развалинах культуры,Басистов,культура,исскуство,литература,упадок,фоторгафия,кино,развал">
-<?php include "../../header.shtml" ?>
+{% include "../../header.shtml" %}
 </HEAD>
 
-<?php include "../../top.shtml" ?>
+{% include "../../top.shtml" %}
 
-<?php include "left.shtml" ?>
+{% include "left.shtml" %}
 
 <H2>Зимние окна</H2>
 <br>
@@ -19,4 +19,4 @@
 <i>Декабрь, 2002.</i><br>
 </small>
 
-<?php include "../../bottom.shtml" ?>
+{% include "../../bottom.shtml" %}

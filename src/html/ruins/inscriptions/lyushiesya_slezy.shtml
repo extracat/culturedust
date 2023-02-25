@@ -1,11 +1,11 @@
 <HTML><HEAD><TITLE>Льющиеся слёзы | На развалинах культуры</TITLE>
 <META name="keywords" content="Льющиеся слёзы,На развалинах культуры,Басистов,культура,исскуство,литература,упадок,фоторгафия,кино,развал">
-<?php include "../../header.shtml" ?>
+{% include "../../header.shtml" %}
 </HEAD>
 
-<?php include "../../top.shtml" ?>
+{% include "../../top.shtml" %}
 
-<?php include "left.shtml" ?>
+{% include "left.shtml" %}
 
 
 <h1 align=center>Льющиеся слёзы</h1>
@@ -27,4 +27,4 @@
 <i>Ноябрь 2002 – Июль 2003.</i>
 </p>
 
-<?php include "../../bottom.shtml" ?>
+{% include "../../bottom.shtml" %}
