@@ -1,1 +1,1 @@
-<?php require "index.shtml" ?>
+<?php //require "index.shtml" ?>
