@@ -1,9 +1,9 @@
 <HTML><HEAD><TITLE>Крылья для Кота | На развалинах культуры</TITLE>
 <META name="keywords" content="Крылья для Кота,На развалинах культуры,Басистов,культура,исскуство,литература,упадок,фоторгафия,кино,развал">
-{% include "../../header.shtml" %}
+{% include "header.shtml" %}
 </HEAD>
 
-{% include "../../top.shtml" %}
+{% include "top.shtml" %}
 
 {% include "left.shtml" %}
 
@@ -127,5 +127,5 @@
 <i>Басистов Антон.</i><br>
 <i>18 мая, 2004.</i></p>
 
-{% include "../../bottom.shtml" %}
+{% include "bottom.shtml" %}
 

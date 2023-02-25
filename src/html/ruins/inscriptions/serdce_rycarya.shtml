@@ -1,9 +1,9 @@
 <HTML><HEAD><TITLE>Сердце рыцаря | На развалинах культуры</TITLE>
 <META name="keywords" content="Сердце рыцаря,На развалинах культуры,Басистов,культура,исскуство,литература,упадок,фоторгафия,кино,развал">
-{% include "../../header.shtml" %}
+{% include "header.shtml" %}
 </HEAD>
 
-{% include "../../top.shtml" %}
+{% include "top.shtml" %}
 
 {% include "left.shtml" %}
 
@@ -58,4 +58,4 @@
 <i>Декабрь, 2002.</i></P>
 
 
-{% include "../../bottom.shtml" %}
+{% include "bottom.shtml" %}

@@ -1,9 +1,9 @@
 <HTML><HEAD><TITLE>Зимние окна | На развалинах культуры</TITLE>
 <META name="keywords" content="Зимние окна,На развалинах культуры,Басистов,культура,исскуство,литература,упадок,фоторгафия,кино,развал">
-{% include "../../header.shtml" %}
+{% include "header.shtml" %}
 </HEAD>
 
-{% include "../../top.shtml" %}
+{% include "top.shtml" %}
 
 {% include "left.shtml" %}
 
@@ -19,4 +19,4 @@
 <i>Декабрь, 2002.</i><br>
 </small>
 
-{% include "../../bottom.shtml" %}
+{% include "bottom.shtml" %}

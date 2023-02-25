@@ -1,9 +1,9 @@
 <HTML><HEAD><TITLE>Последний предел | На развалинах культуры</TITLE>
 <META name="keywords" content="Последний предел,На развалинах культуры,Басистов,культура,исскуство,литература,упадок,фоторгафия,кино,развал">
-{% include "../../header.shtml" %}
+{% include "header.shtml" %}
 </HEAD>
 
-{% include "../../top.shtml" %}
+{% include "top.shtml" %}
 
 {% include "left.shtml" %}
 
@@ -105,4 +105,4 @@
 <i>Конец декабря, 2003.</i><br></p>
 
 
-{% include "../../bottom.shtml" %}
+{% include "bottom.shtml" %}

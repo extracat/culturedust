@@ -1,9 +1,9 @@
 <HTML><HEAD><TITLE>Ссылки | На развалинах культуры</TITLE>
 <META name="keywords" content="индустриальное фото,заброшенные места,На развалинах культуры,исскуство,проблемы,литература,урбанистический,фоторгафия,кино">
-{% include "../../header.shtml" %}
+{% include "header.shtml" %}
 </HEAD>
 
-{% include "../../top.shtml" %}
+{% include "top.shtml" %}
 
 {% include "left.shtml" %}
 
@@ -73,4 +73,4 @@
      
 
 
-{% include "../../bottom.shtml" %}
+{% include "bottom.shtml" %}

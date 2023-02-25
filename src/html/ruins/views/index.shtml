@@ -1,9 +1,9 @@
 <HTML><HEAD><TITLE>Виды с развалин | На развалинах культуры</TITLE>
 <META name="keywords" content="культура,исскуство,проблемы,литература,урбанистический,катаклизм,дизайн,упадок,фоторгафия,деградация,кино,хаос,вэб-дизайн,развал">
-{% include "../../header.shtml" %}
+{% include "header.shtml" %}
 </HEAD>
 
-{% include "../../top.shtml" %}
+{% include "top.shtml" %}
 
 {% include "left.shtml" %}
 
@@ -106,4 +106,4 @@
 </td></tr>
 </table>
          
-{% include "../../bottom.shtml" %}
+{% include "bottom.shtml" %}

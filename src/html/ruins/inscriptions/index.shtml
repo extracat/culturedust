@@ -1,9 +1,9 @@
 <HTML><HEAD><TITLE>Письмена на стенах | На развалинах культуры</TITLE>
 <META name="keywords" content="Письмена на стенах,культура,исскуство,литература,фоторгафия,кино">
-{% include "../../header.shtml" %}
+{% include "header.shtml" %}
 </HEAD>
 
-{% include "../../top.shtml" %}
+{% include "top.shtml" %}
 
 {% include "left.shtml" %}
 
@@ -24,4 +24,4 @@
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
-{% include "../../bottom.shtml" %}
+{% include "bottom.shtml" %}
