@@ -1,20 +1,16 @@
 {
-  "name": "extracat",
+  "name": "culturedust",
   "version": "1.0.0",
-  "description": "Simple hello world Node.js app",
+  "description": "culturedust",
   "license": "Apache-2.0",
   "scripts": {
-    "start": "node app2.js",
-    "dev": "node app2.js",
-    "build": "node app2.js",
-    "now-dev": "node app2.js",
-    "now-build": "node app2.js"
+    "start": "gulp",
+    "build": "gulp build"
   },
-  "dependencies": {
-    "cfenv": "^1.1.0"
-  },
-  "engines": {
-    "node": ">=0.10.0"
-  },
-  "repository": {}
+  "devDependencies": {
+    "del": "^7.0.0",
+    "gulp": "^4.0.2",
+    "gulp-beautify": "^3.0.0",
+    "gulp-nunjucks-render": "^2.2.3"
+  }
 }
