@@ -4,7 +4,12 @@
 /node_modules
 /.pnp
 .pnp.js
-.yarn
+.yarn/*
+!.yarn/patches
+!.yarn/plugins
+!.yarn/releases
+!.yarn/sdks
+!.yarn/versions
 
 # testing
 /coverage
@@ -19,6 +24,8 @@
 # misc
 .DS_Store
 *.pem
+*.log
+/.vscode
 
 # debug
 npm-debug.log*
